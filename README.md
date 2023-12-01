@@ -19,7 +19,7 @@ Before running the script, ensure you have the following:
    git clone https://github.com/bujosa/instagram-api-integration.git
    cd instagram-feed-retrieval
    ```
-2. **Install Depedencies
+2. **Install Depedencies:**
    
    ```bash
    pip install requests
